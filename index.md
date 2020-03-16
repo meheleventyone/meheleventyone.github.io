@@ -3,4 +3,4 @@ title: blog
 layout: home
 permalink: /
 ---
-Moo
+Sometime soon there might be some blog posts on game design and development here.
