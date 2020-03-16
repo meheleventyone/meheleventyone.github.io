@@ -1,1 +1,6 @@
-Blah
+---
+title: blog
+layout: home
+permalink: /
+---
+Moo
