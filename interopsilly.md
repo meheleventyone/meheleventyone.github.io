@@ -8,7 +8,7 @@ permalink: /gameinteropisntsilly/
 
 I got a wisdom tooth out yesterday and am oozing, in quite a bit of pain and have a temperature. The perfect time to write something about the current game interoperability conversation happening on Twitter!
 
-This all really kicked off when some guy in a band posted an asinine take on the potential role of NFTs and crypto in creating shareable game assets. This isn’t a new thing but the status of the guy means everyone wants to jump in and dunk on it. And the dunks are good, wide ranging but ultimately simplistic. There’s a reason why a huge amount of the games industry missed out on the rise of Roblox and that’s because we often diddle with the things right in front of us and aren’t particularly good at looking outside that bubble.
+This all really kicked off when some guy in a band posted an asinine take on the potential role of NFTs and crypto in creating shareable game assets. This isn’t a new thing but the status of the guy means everyone wants to jump in and dunk on it. And the dunks are wide ranging but ultimately simplistic. There’s a reason why a huge amount of the games industry missed out on the rise of Roblox and that’s because we often diddle with the things right in front of us and aren’t particularly good at looking outside that bubble.
 
 I want to kick the NFT/crypto part of the conversation to one side. Partly because I don’t like crypto either and I think that dislike clouds the issue more than it really should. But also because I don’t think it really adds much to the interoperability conversation. There’s little that crypto provides that can’t be done more efficiently in a different way as people have explained at length with way more diagrams than I’m ever going to make.
 
